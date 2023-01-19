@@ -1,4 +1,4 @@
-# Hi, I'm Nath (naCH)!
+# Hi, I'm Nath (nat)!
 
 - Software engineer - 👩‍💻
 - From Santos - 🇧🇷 to the world 🌎
