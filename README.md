@@ -1,18 +1,19 @@
-# Hi, I'm Nath (nat)!
+# Hi, I'm Nath (nat) 👋!
 
 - Software engineer - 👩‍💻
+- Living in Surrey - BC 🇨🇦
 - From Santos - 🇧🇷 to the world 🌎
-- Living in Vancouver - 🇨🇦
 
 # What I have been doing?
 
-- Building fun stuff at [@thejibe](https://github.com/thejibe)
+- Building fun stuff at [@thejibe](https://github.com/thejibe), with an amazing dev team. Which I'm really proud of.
   - creating eCom with [NextJs](https://nextjs.org/)
   - testing with [cypress](https://www.cypress.io/), [rtl](https://testing-library.com/)
   - creating API with [NodeJS](https://nodejs.org/docs/latest-v16.x/api/)
   - CSS in JS is my thing
 - Mentoring peeps in the tech career, [contact me if want to know more or wanna some help](mailto:hello@nathpaiva.com.br).
-- Learning how to ride a snowboard 🏂.
+- Hiking in summer 🥾.
+- Learning how to ride a snowboard 🏂 in winter.
 - Creating new connections in a different country.
 
 # How about my goals?
