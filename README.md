@@ -1,6 +1,6 @@
 # Hi, I'm Nath (nat) 👋!
 
-- Software engineer - 👩‍💻
+- Staff Software Engineer - 👩‍💻
 - Living in Surrey - BC 🇨🇦
 - From Santos - 🇧🇷 to the world 🌎
 
