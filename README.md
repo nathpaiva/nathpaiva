@@ -18,11 +18,11 @@
 
 # How about my goals?
 
-- Travel much more and have a world experience 🛫.
 - Share more about code, and learn more about it 👩‍💻.
+- Travel much more and have a world experience 🛫.
 - Have really nice moments with my parents and friends from Brazil.
 
-# Where you can find me?
+# Where can you find me?
 
 - [Linkedin](https://www.linkedin.com/in/nathpaiva)
 - [Instagram](https://www.instagram.com/nathpaiva)
