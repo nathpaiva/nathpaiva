@@ -1,6 +1,6 @@
 # Hi, I'm Nath (nat) 👋!
 
-- Staff Software Engineer - 👩‍💻
+- Staff Software Engineer - +12y - 👩‍💻
 - Living in Surrey - BC 🇨🇦
 - From Santos - 🇧🇷 to the world 🌎
 
@@ -25,6 +25,7 @@
 # Where can you find me?
 
 - [Linkedin](https://www.linkedin.com/in/nathpaiva)
+- [StackOverflow](https://stackoverflow.com/users/3231814/nath-paiva)
 - [Instagram](https://www.instagram.com/nathpaiva)
 - [Twitter](https://twitter.com/nathpaiva)
 - [About.me](https://about.me/nathpaiva)
