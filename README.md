@@ -4,13 +4,14 @@
 - Living in Surrey - BC 🇨🇦
 - From Santos - 🇧🇷 to the world 🌎
 
-# What I have been doing?
+# What have I been doing?
 
 - Building fun stuff at [@thejibe](https://github.com/thejibe), with an amazing dev team. Which I'm really proud of.
   - creating eCom with [NextJs](https://nextjs.org/)
+  - Typescript is my thing 🫶
   - testing with [cypress](https://www.cypress.io/), [rtl](https://testing-library.com/)
   - creating API with [NodeJS](https://nodejs.org/docs/latest-v16.x/api/)
-  - CSS in JS is my thing
+  - CSS in JS
 - Mentoring peeps in the tech career, [contact me if want to know more or wanna some help](mailto:hello@nathpaiva.com.br).
 - Hiking in summer 🥾.
 - Learning how to ride a snowboard 🏂 in winter.
