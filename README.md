@@ -7,7 +7,7 @@
 # What have I been doing?
 
 - Learning fun stuff such as [`Serverless`](https://github.com/nathpaiva/first-aws-api-serverless) and [`React-Native`](https://github.com/nathpaiva/skills).
-- Nearly past I've built fun stuff at [@thejibe](https://github.com/thejibe), with an amazing dev team. Which I'm really proud of.
+- In the recent past, I was building fun stuff at [@thejibe](https://github.com/thejibe), with an amazing dev team. Which I'm really proud of.
   - creating eCom with [NextJs](https://nextjs.org/) & [Typescript](https://www.typescriptlang.org/) is my thing 🫶
   - testing with [cypress](https://www.cypress.io/), [rtl](https://testing-library.com/)
   - creating API with [NodeJS](https://nodejs.org/docs/latest-v16.x/api/)
