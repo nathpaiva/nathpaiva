@@ -1,12 +1,16 @@
 # Hi, I'm Nath (nat) 👋!
 
-- Staff Engineer - 👩‍💻
-- Living in Surrey - BC 🇨🇦
+- Senior Software Engineer - 👩‍💻
+- Living in Maple Ridge - BC 🇨🇦
 - From Santos - 🇧🇷 to the world 🌎
 
 # What have I been doing?
 
 - Learning fun stuff such as [`Serverless`](https://github.com/nathpaiva/first-aws-api-serverless) and [`React-Native`](https://github.com/nathpaiva/skills).
+- Currently I'm working at [@seomoz](https://github.com/seomoz) as Senior Software Engineer.
+  - Maintaining and improving [Moz products](https://moz.com) with [NextJs](https://nextjs.org/) & [Typescript](https://www.typescriptlang.org/).
+  - Testing with [playwright](https://playwright.dev/), [rtl](https://testing-library.com/).
+  - CSS in JS.
 - In the recent past, I was building fun stuff at [@thejibe](https://github.com/thejibe), with an amazing dev team. Which I'm really proud of.
   - creating eCom with [NextJs](https://nextjs.org/) & [Typescript](https://www.typescriptlang.org/) is my thing 🫶
   - testing with [cypress](https://www.cypress.io/), [rtl](https://testing-library.com/)
